@@ -1,0 +1,12 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "scm.compactFolders": false,
+    "files.autoSave": "afterDelay",
+    "editor.lineHeight": 1.8,
+    "editor.renderLineHighlight": "gutter",
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontSize": 14,
+    "editor.fontLigatures": false,
+    "explorer.compactFolders": false,
+    "database-client.autoSync": true
+}
