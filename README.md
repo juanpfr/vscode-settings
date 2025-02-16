@@ -25,3 +25,9 @@ Este repositório contém minhas configurações personalizadas do Visual Studio
 ## Contribuições
 
 Sinta-se à vontade para sugerir melhorias ou compartilhar suas próprias configurações por meio de Pull Requests! 😄
+
+---
+
+## Comando Adicional
+
+- **"terminal.integrated.cwd": "C:\\Users\\Juan\\Documents"** Serve para iniciar o VSCODE com o terminal no diretório documents (O diretório do usuário pode mudar conforme a máquina)
