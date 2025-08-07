@@ -5,8 +5,11 @@
     "editor.lineHeight": 1.8,
     "editor.renderLineHighlight": "gutter",
     "editor.fontFamily": "JetBrains Mono",
-    "editor.fontSize": 14,
+    "editor.fontSize": 17,
     "editor.fontLigatures": false,
     "explorer.compactFolders": false,
-    "database-client.autoSync": true
+    "database-client.autoSync": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "explorer.confirmDelete": false,
+    "redhat.telemetry.enabled": true,
 }
